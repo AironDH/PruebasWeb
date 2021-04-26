@@ -46,3 +46,7 @@ header{
 article{
     margin-left: 180px;
 }
+.logo{
+    justify-content: center;
+    display: flex;
+}
