@@ -1,7 +1,7 @@
 H1{
     text-align: center; 
     color:black;
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
 }
 #lorem{
     text-align: justify;
@@ -11,17 +11,38 @@ H1{
 p{
     color: rgb(161, 22, 22);
     text-align: justify;
+    margin: 5%;
 }
 .centrado{
     text-decoration: none;
     font-weight: 300;
     font-size: 20px;
     color: #ffffff;
-    background-color: #1883ba;
+    background-color: #1883b9;
     border-radius: 7px;
     border: 2px solid #0016b0;
 }
 .boton-centro{
     display: flex;
     justify-content: center;
+}
+.centrado:hover{
+    background-color: #60c7fa;
+}
+.sidebar{
+    height: 100%;
+    width: 180px;
+    background-color: cyan;
+    position:absolute;
+    top: 0%;
+    bottom: 0%;
+    border: 1px solid #383838;
+    float: right;
+    
+}
+header{
+    margin-left: 180px;
+}
+article{
+    margin-left: 180px;
 }
