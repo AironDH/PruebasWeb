@@ -10,6 +10,7 @@ H1{
 }
 p{
     color: rgb(161, 22, 22);
+    text-align: justify;
 }
 .centrado{
     background-color: coral;
