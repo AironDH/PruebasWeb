@@ -1,0 +1,20 @@
+H1{
+    text-align: center; 
+    color:black;
+    font-family: 'Times New Roman', Times, serif
+}
+#lorem{
+    text-align: justify;
+    font-family: monospace;
+    color:blue;
+}
+p{
+    color: rgb(161, 22, 22);
+}
+.centrado{
+    background-color: coral;
+}
+.boton-centro{
+    display: flex;
+    justify-content: center;
+}
