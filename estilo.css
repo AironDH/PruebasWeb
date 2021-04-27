@@ -64,4 +64,10 @@ article{
     list-style-type: square;
     color: #0016b0;
     margin-left: 5%;
+    display: none;
+}
+#hider:checked + .log{
+    display: block;
+}
+#hider{
 }
