@@ -6,10 +6,10 @@ H1{
 #lorem{
     text-align: justify;
     font-family: monospace;
-    color:blue;
+    color:rgb(255, 0, 0);
 }
 p{
-    color: rgb(161, 15, 15);
+    color: #a10f0f;
     text-align: justify;
     margin: 5%;
 }
@@ -62,4 +62,6 @@ article{
 .log{
     font-family: Georgia, 'Times New Roman', Times, serif;
     list-style-type: square;
+    color: #0016b0;
+    margin-left: 5%;
 }
